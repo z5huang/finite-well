@@ -1,0 +1,7 @@
+
+    v = -0.5
+    nsys = 200
+    nwell = 20
+    wbeg = 'None'
+    
+nbound = 5
